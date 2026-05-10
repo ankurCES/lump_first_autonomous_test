@@ -1,0 +1,3 @@
+[workspace]
+members = ["dispatchd-core", "dispatchd-cli"]
+resolver = "2"
